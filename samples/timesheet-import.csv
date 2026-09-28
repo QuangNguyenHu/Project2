@@ -1,0 +1,4 @@
+email,date,start,end,project_code,note
+nv1@example.com,2026-09-28,08:00,12:00,WEB01,Họp và thiết kế
+nv1@example.com,2026-09-28,13:00,17:30,WEB01,Viết API
+nv2@example.com,2026-09-29,09:00,12:00,WEB01,Dựng giao diện
